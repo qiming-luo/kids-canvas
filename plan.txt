@@ -1,0 +1,5 @@
+1. (200-300) * (200-300) grid
+2. only change background color when it is default
+3. can be erased
+4. can be reset by one click
+5. further functionality: can be saved to database.
